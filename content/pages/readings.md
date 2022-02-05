@@ -9,23 +9,270 @@ Papers for weekly readings
 
 To get started on the bibliography for the final paper, students should choose 6-8 of the assigned and additional readings.
 
-| session | reading |
-| --- | --- |
-| 1: Introduction | No Readings |
-| 2: Empathy and Morality |  {{< br >}}{{< br >}} Bethlehem, Richard AI, Carrie Allison, Emma M. van Andel, Alexander I. Coles, Kimberley Neil, and Simon Baron-Cohen. "[Does Empathy Predict Altruism in the Wild?](http://www.tandfonline.com/doi/abs/10.1080/17470919.2016.1249944)." _Social Neuroscience_ 12, no. 6 (2017): 743-750. {{< br >}}{{< br >}} Singer, Tania, and Olga M. Klimecki. "[Empathy and Compassion](http://www.sciencedirect.com/science/article/pii/S0960982214007702)." _Current Biology_ 24, no. 18 (2014): R875-R878. {{< br >}}{{< br >}} Ashar, Yoni K., Jessica R. Andrews-Hanna, Sona Dimidjian, and Tor D. Wager. "[Empathic Care and Distress: Predictive Brain Markers and Dissociable Brain Systems](http://www.sciencedirect.com/science/article/pii/S0896627317304154)." _Neuron_ (2017). {{< br >}}{{< br >}} Bloom, Paul. "[Empathy and Its Discontents](http://www.sciencedirect.com/science/article/pii/S1364661316301930)." _Trends in Cognitive Sciences_ (2016). {{< br >}}{{< br >}}  |
-| 3: Rodent Models of Empathy |  {{< br >}}{{< br >}} Bartal, Inbal Ben-Ami, Jean Decety, and Peggy Mason. "[Empathy and Pro-Social Behavior in Rats](http://science.sciencemag.org/content/334/6061/1427)." _Science_ 334, no. 6061 (2011): 1427-1430. {{< br >}}{{< br >}} Sato, Nobuya, Ling Tan, Kazushi Tate, and Maya Okada. "Rats Demonstrate Helping Behavior Toward a Soaked Conspecific." _Animal Cognition_ 18, no. 5 (2015): 1039-1047. {{< br >}}{{< br >}} Burkett, James P., Elissar Andari, Zachary V. Johnson, Daniel C. Curry, Frans BM de Waal, and Larry J. Young. "[Oxytocin-Dependent Consolation Behavior in Rodents](http://science.sciencemag.org/content/351/6271/375)." _Science_ 351, no. 6271 (2016): 375-378. {{< br >}}{{< br >}} Bartz, Jennifer A., Jamil Zaki, Niall Bolger, Eric Hollander, Natasha N. Ludwig, Alexander Kolevzon, and Kevin N. Ochsner. "[Oxytocin Selectively Improves Empathic Accuracy](http://journals.sagepub.com/doi/full/10.1177/0956797610383439)." _Psychological Science_ 21, no. 10 (2010): 1426-1428. {{< br >}}{{< br >}} Insel, Thomas R. "[Translating Oxytocin Neuroscience to the Clinic: a National Institute of Mental Health Perspective](http://www.biologicalpsychiatryjournal.com/article/S0006-3223(15)00089-X/abstract)." _Biological Psychiatry_ 79, no. 3 (2016): 153-154. {{< br >}}{{< br >}}  |
-| 4: Origins of Empathy and Prosociality |  {{< br >}}{{< br >}} Davidov, Maayan, Carolyn Zahn‐Waxler, Ronit Roth‐Hanania, and Ariel Knafo. "[Concern for Others in the First Year of Life: Theory, Evidence, and Avenues for Research](http://onlinelibrary.wiley.com/doi/10.1111/cdep.12028/full)." _Child Development Perspectives_ 7, no. 2 (2013): 126-131. {{< br >}}{{< br >}} Grossmann, Tobias. "[How to Build a Helpful Baby: A Look at the Roots of Prosociality in Infancy](https://www.sciencedirect.com/science/article/pii/S2352250X17301306)." _Current Opinion in Psychology_ 20 (2018): 21-24. {{< br >}}{{< br >}} Knafo-Noam, Ariel, Dana Vertsberger, and Salomon Israel. "[Genetic and Environmental Contributions to Children's Prosocial Behavior: Brief Review and New Evidence from a Reanalysis of Experimental Twin Data](https://www.sciencedirect.com/science/article/pii/S2352250X17301628)." _Current Opinion in Psychology_ 20 (2018): 60-65. {{< br >}}{{< br >}} Van de Vondervoort, Julia W., and Jane Kiley Hamlin. "[The Early Emergence of Sociomoral Evaluation: Infants Prefer Prosocial Others](https://www.sciencedirect.com/science/article/pii/S2352250X17301227)." _Current Opinion in Psychology_ 20 (2018): 77-81. {{< br >}}{{< br >}} Dahl, Audun. "[How, Not Whether: Contributions of Others in the Development of Infant Helping](https://www.sciencedirect.com/science/article/pii/S2352250X17301136)." _Current Opinion in Psychology_ 20 (2018): 72-76. {{< br >}}{{< br >}}  |
-| 5: Psychopath and the Moral Brain |  {{< br >}}{{< br >}} Blair, R. James R. "[The Amygdala and Ventromedial Prefrontal Cortex in Morality and Psychopathy](http://www.sciencedirect.com/science/article/pii/S136466130700191X)." _Trends in Cognitive Sciences_ 11, no. 9 (2007): 387-392. {{< br >}}{{< br >}} Shenhav, Amitai, and Joshua D. Greene. "[Integrative Moral Judgment: Dissociating the Roles of the Amygdala and Ventromedial Prefrontal Cortex](http://www.jneurosci.org/content/34/13/4741.short)." _Journal of Neuroscience_ 34, no. 13 (2014): 4741-4749. {{< br >}}{{< br >}} Marsh, A. A., & Cardinale, E. M. "[When Psychopathy Impairs Moral Judgments: Neural Responses During Judgments About Causing Fear](https://academic.oup.com/scan/article/9/1/3/1672863)." _Social Cognitive and Affective Neuroscience_, 9(1), (2012): 3-11. {{< br >}}{{< br >}} Motzkin, Julian C., Joseph P. Newman, Kent A. Kiehl, and Michael Koenigs. "[Reduced Prefrontal Connectivity in Psychopathy](http://www.jneurosci.org/content/31/48/17348.short)." _Journal of Neuroscience_ 31, no. 48 (2011): 17348-17357. {{< br >}}{{< br >}}  |
-| 6: Essay Workshop | No Readings |
-| 7: Action Aversion |  {{< br >}}{{< br >}} Costa, Albert, Alice Foucart, Sayuri Hayakawa, Melina Aparici, Jose Apesteguia, Joy Heafner, and Boaz Keysar. "[Your Morals Depend on Language](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094842)." _PLOS ONE_ 9, no. 4 (2014): e94842. {{< br >}}{{< br >}} Cushman, Fiery, Kurt Gray, Allison Gaffey, and Wendy Berry Mendes. "[Simulating Murder: The Aversion to Harmful Action](http://psycnet.apa.org/record/2011-20235-001)." _Emotion_ 12, no. 1 (2012): 2. {{< br >}}{{< br >}} Miller, Ryan M., Ivar A. Hannikainen, and Fiery A. Cushman. "[Bad Actions or Bad Outcomes? Differentiating Affective Contributions to the Moral Condemnation of Harm](http://psycnet.apa.org/record/2014-04654-001)." _Emotion_ 14, no. 3 (2014): 573. {{< br >}}{{< br >}}  |
-| 8: Learning, Change, Plasticity |  {{< br >}}{{< br >}} Taber-Thomas, Bradley C., Erik W. Asp, Michael Koenigs, Matthew Sutterer, Steven W. Anderson, and Daniel Tranel. "[Arrested Development: Early Prefrontal Lesions Impair the Maturation of Moral Judgement](https://academic.oup.com/brain/article/137/4/1254/366333)." _Brain_ 137, no. 4 (2014): 1254-1261. {{< br >}}{{< br >}} Burns, Jeffrey M., and Russell H. Swerdlow. "[Right Orbitofrontal Tumor with Pedophilia Symptom and Constructional Apraxia Sign](https://jamanetwork.com/journals/jamaneurology/fullarticle/783830)." Archives of Neurology 60, no. 3 (2003): 437-440. {{< br >}}{{< br >}} Rosas, Alejandro, and Michael Koenigs. "[Beyond “Utilitarianism”: Maximizing the Clinical Impact of Moral Judgment Research](http://www.tandfonline.com/doi/abs/10.1080/17470919.2014.937506)." _Social Neuroscience_ 9, no. 6 (2014): 661-667. {{< br >}}{{< br >}} Cushman, Fiery. "[The Neural Basis of Morality: Not Just Where, but When](https://academic.oup.com/brain/article/137/4/974/372961)." _Brain_ 137, no. 4 (2014): 974-975. {{< br >}}{{< br >}}  |
-| 9: Parochialism and the Moral Circle |  {{< br >}}{{< br >}} Mathur, Vani A., Tokiko Harada, Trixie Lipke, and Joan Y. Chiao. "[Neural Basis of Extraordinary Empathy and Altruistic Motivation](http://www.sciencedirect.com/science/article/pii/S1053811910003125)." _Neuroimage_ 51, no. 4 (2010): 1468-1475. {{< br >}}{{< br >}} De Dreu, Carsten KW, Lindred L. Greer, Gerben A. Van Kleef, Shaul Shalvi, and Michel JJ Handgraaf. "[Oxytocin Promotes Human Ethnocentrism](http://www.pnas.org/content/108/4/1262.short)." _Proceedings of the National Academy of Sciences_ 108, no. 4 (2011): 1262-1266. {{< br >}}{{< br >}} Cikara, Mina, Rachel A. Farnsworth, Lasana T. Harris, and Susan T. Fiske. "[On the Wrong Side of the Trolley Track: Neural Correlates of Relative Social Valuation](https://academic.oup.com/scan/article/5/4/404/1624902)." _Social Cognitive and Affective Neuroscience_ 5, no. 4 (2010): 404-413. {{< br >}}{{< br >}} Waytz, Adam, Ravi Iyer, Liane Young, and Jesse Graham. "Ideological Differences in the Expanse of Empathy." _Social Psychology of Political Polarization_ (2016): 61. {{< br >}}{{< br >}}  |
-| 10: Celebrating Intergroup Violence |  {{< br >}}{{< br >}} Cikara, Mina. "[Intergroup Schadenfreude: Motivating Participation in Collective Violence](http://www.sciencedirect.com/science/article/pii/S2352154614000382)." _Current Opinion in Behavioral Sciences_ 3 (2015): 12-17. {{< br >}}{{< br >}} Cikara, Mina, Matthew M. Botvinick, and Susan T. Fiske. "[Us Versus Them: Social Identity Shapes Neural Responses to Intergroup Competition and Harm](http://journals.sagepub.com/doi/abs/10.1177/0956797610397667)." _Psychological Science_ 22, no. 3 (2011): 306-313. {{< br >}}{{< br >}} Rai, Tage S., Piercarlo Valdesolo, and Jesse Graham. "[Dehumanization Increases Instrumental Violence, but Not Noral Violence](http://www.pnas.org/content/114/32/8511.abstract)." _Proceedings of the National Academy of Sciences_ (2017): 201705238. {{< br >}}{{< br >}} Ginges, Jeremy, Scott Atran, Sonya Sachdeva, and Douglas Medin. "[Psychology Out of the Laboratory: The Challenge of Violent Extremism](http://psycnet.apa.org/record/2011-17035-001)." _American Psychologist_ 66, no. 6 (2011): 507. {{< br >}}{{< br >}} Fischer, Peter, S. Alexander Haslam, and Laura Smith. "[“If You Wrong Us, Shall We Not Revenge?” Social Identity Salience Moderates Support for Retaliation in Response to Collective Threat](http://psycnet.apa.org/record/2010-10961-004)." _Group Dynamics: Theory, Research, and Practice_ 14, no. 2 (2010): 143. {{< br >}}{{< br >}}  |
-| 11: Guilty Minds |  {{< br >}}{{< br >}} Young, Liane, Joan Albert Camprodon, Marc Hauser, Alvaro Pascual-Leone, and Rebecca Saxe. "[Disruption of the Right Temporoparietal Junction with Transcranial Magnetic Stimulation Reduces the Role of Beliefs in Moral Judgments](http://www.pnas.org/content/107/15/6753.short)." _Proceedings of the National Academy of Sciences_ 107, no. 15 (2010): 6753-6758. {{< br >}}{{< br >}} Fehse, Kai, Sarita Silveira, Katrin Elvers, and Janusch Blautzik. "[Compassion, Guilt and Innocence: An fMRI Study of Responses to Victims Who are Responsible for Their Fate](http://www.tandfonline.com/doi/abs/10.1080/17470919.2014.980587)." _Social Neuroscience_ 10, no. 3 (2015): 243-252. {{< br >}}{{< br >}} Treadway, Michael T., Joshua W. Buckholtz, Justin W. Martin, Katharine Jan, Christopher L. Asplund, Matthew R. Ginther, Owen D. Jones, and René Marois. "[Corticolimbic Gating of Emotion-Driven Punishment](https://www.nature.com/articles/nn.3781)." _Nature Neuroscience_ 17, no. 9 (2014): 1270-1275. {{< br >}}{{< br >}}  |
-| 12: Essay Workshop | No readings |
-| 13: Moral Variability |  {{< br >}}{{< br >}} Graham, Jesse, Jonathan Haidt, and Brian A. Nosek. "[Liberals and Conservatives Rely on Different Sets of Moral Foundations](http://psycnet.apa.org/buy/2009-05192-002)." _Journal of Personality and Social Psychology_ 96, no. 5 (2009): 1029. {{< br >}}{{< br >}} Barrett, H. Clark, Alexander Bolyanatz, Alyssa N. Crittenden, Daniel MT Fessler, Simon Fitzpatrick, Michael Gurven, Joseph Henrich et al. "[Small-Scale Societies Exhibit Fundamental Variation in the Role of Intentions in Moral Judgment](http://www.pnas.org/content/113/17/4688.short)." _Proceedings of the National Academy of Sciences_ 113, no. 17 (2016): 4688-4693. {{< br >}}{{< br >}} Henrich, Joseph, Richard McElreath, Abigail Barr, Jean Ensminger, Clark Barrett, Alexander Bolyanatz, Juan Camilo Cardenas et al. "[Costly Punishment Across Human Societies](http://science.sciencemag.org/content/312/5781/1767)." _Science_ 312, no. 5781 (2006): 1767-1770. {{< br >}}{{< br >}} Chakroff, Alek, James Dungan, Jorie Koster-Hale, Amelia Brown, Rebecca Saxe, and Liane Young. "[When Minds Matter for Moral Judgment: Intent Information is Neurally Encoded for Harmful but Not Impure Acts](https://academic.oup.com/scan/article/11/3/476/2375141)." _Social Cognitive and Affective Neuroscience_ 11, no. 3 (2015): 476-484. {{< br >}}{{< br >}} Hofmann, Wilhelm, Daniel C. Wisneski, Mark J. Brandt, and Linda J. Skitka. "[Morality in Everyday Life](http://science.sciencemag.org/content/345/6202/1340)." _Science_ 345, no. 6202 (2014): 1340-1343. {{< br >}}{{< br >}}  |
-| 14: The Good Self |  {{< br >}}{{< br >}} Haslam, S. Alexander, Stephen D. Reicher, and Megan E. Birney. "[Questioning Authority: New Perspectives on Milgram's Oobedience’ Research and its Implications for Intergroup Relations](http://www.sciencedirect.com/science/article/pii/S2352250X16300215)." _Current Opinion in Psychology_ 11 (2016): 6-9. {{< br >}}{{< br >}} Mazar, Nina, On Amir, and Dan Ariely. "[The Dishonesty of Honest People: A Theory of Self-Concept Maintenance](http://journals.ama.org/doi/abs/10.1509/jmkr.45.6.633?code=amma-site)." _Journal of Marketing Research_ 45, no. 6 (2008): 633-644. {{< br >}}{{< br >}} Gino, Francesca, Michael I. Norton, and Roberto A. Weber. "Motivated Bayesians: Feeling Moral While Acting Egoistically." _The Journal of Economic Perspectives_ 30, no. 3 (2016): 189-212. {{< br >}}{{< br >}} D’Argembeau, Arnaud, Haroun Jedidi, Evelyne Balteau, Mohamed Bahri, Christophe Phillips, and Eric Salmon. "[Valuing One’s Self: Medial Prefrontal Involvement in Epistemic and Emotive Investments in Self-Views](https://academic.oup.com/cercor/article/22/3/659/327966)." _Cerebral Cortex_ 22, no. 3 (2011): 659-667. {{< br >}}{{< br >}}  |
-| 15: Science and Morality | No readings 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+session
+{{< thclose >}}
+{{< thopen >}}
+reading
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1: Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+No Readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2: Empathy and Morality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bethlehem, Richard AI, Carrie Allison, Emma M. van Andel, Alexander I. Coles, Kimberley Neil, and Simon Baron-Cohen. "[Does Empathy Predict Altruism in the Wild?](http://www.tandfonline.com/doi/abs/10.1080/17470919.2016.1249944)." _Social Neuroscience_ 12, no. 6 (2017): 743-750.
+
+Singer, Tania, and Olga M. Klimecki. "[Empathy and Compassion](http://www.sciencedirect.com/science/article/pii/S0960982214007702)." _Current Biology_ 24, no. 18 (2014): R875-R878.
+
+Ashar, Yoni K., Jessica R. Andrews-Hanna, Sona Dimidjian, and Tor D. Wager. "[Empathic Care and Distress: Predictive Brain Markers and Dissociable Brain Systems](http://www.sciencedirect.com/science/article/pii/S0896627317304154)." _Neuron_ (2017).
+
+Bloom, Paul. "[Empathy and Its Discontents](http://www.sciencedirect.com/science/article/pii/S1364661316301930)." _Trends in Cognitive Sciences_ (2016).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3: Rodent Models of Empathy
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bartal, Inbal Ben-Ami, Jean Decety, and Peggy Mason. "[Empathy and Pro-Social Behavior in Rats](http://science.sciencemag.org/content/334/6061/1427)." _Science_ 334, no. 6061 (2011): 1427-1430.
+
+Sato, Nobuya, Ling Tan, Kazushi Tate, and Maya Okada. "Rats Demonstrate Helping Behavior Toward a Soaked Conspecific." _Animal Cognition_ 18, no. 5 (2015): 1039-1047.
+
+Burkett, James P., Elissar Andari, Zachary V. Johnson, Daniel C. Curry, Frans BM de Waal, and Larry J. Young. "[Oxytocin-Dependent Consolation Behavior in Rodents](http://science.sciencemag.org/content/351/6271/375)." _Science_ 351, no. 6271 (2016): 375-378.
+
+Bartz, Jennifer A., Jamil Zaki, Niall Bolger, Eric Hollander, Natasha N. Ludwig, Alexander Kolevzon, and Kevin N. Ochsner. "[Oxytocin Selectively Improves Empathic Accuracy](http://journals.sagepub.com/doi/full/10.1177/0956797610383439)." _Psychological Science_ 21, no. 10 (2010): 1426-1428.
+
+Insel, Thomas R. "[Translating Oxytocin Neuroscience to the Clinic: a National Institute of Mental Health Perspective](http://www.biologicalpsychiatryjournal.com/article/S0006-3223(15)00089-X/abstract)." _Biological Psychiatry_ 79, no. 3 (2016): 153-154.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4: Origins of Empathy and Prosociality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Davidov, Maayan, Carolyn Zahn‐Waxler, Ronit Roth‐Hanania, and Ariel Knafo. "[Concern for Others in the First Year of Life: Theory, Evidence, and Avenues for Research](http://onlinelibrary.wiley.com/doi/10.1111/cdep.12028/full)." _Child Development Perspectives_ 7, no. 2 (2013): 126-131.
+
+Grossmann, Tobias. "[How to Build a Helpful Baby: A Look at the Roots of Prosociality in Infancy](https://www.sciencedirect.com/science/article/pii/S2352250X17301306)." _Current Opinion in Psychology_ 20 (2018): 21-24.
+
+Knafo-Noam, Ariel, Dana Vertsberger, and Salomon Israel. "[Genetic and Environmental Contributions to Children's Prosocial Behavior: Brief Review and New Evidence from a Reanalysis of Experimental Twin Data](https://www.sciencedirect.com/science/article/pii/S2352250X17301628)." _Current Opinion in Psychology_ 20 (2018): 60-65.
+
+Van de Vondervoort, Julia W., and Jane Kiley Hamlin. "[The Early Emergence of Sociomoral Evaluation: Infants Prefer Prosocial Others](https://www.sciencedirect.com/science/article/pii/S2352250X17301227)." _Current Opinion in Psychology_ 20 (2018): 77-81.
+
+Dahl, Audun. "[How, Not Whether: Contributions of Others in the Development of Infant Helping](https://www.sciencedirect.com/science/article/pii/S2352250X17301136)." _Current Opinion in Psychology_ 20 (2018): 72-76.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5: Psychopath and the Moral Brain
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Blair, R. James R. "[The Amygdala and Ventromedial Prefrontal Cortex in Morality and Psychopathy](http://www.sciencedirect.com/science/article/pii/S136466130700191X)." _Trends in Cognitive Sciences_ 11, no. 9 (2007): 387-392.
+
+Shenhav, Amitai, and Joshua D. Greene. "[Integrative Moral Judgment: Dissociating the Roles of the Amygdala and Ventromedial Prefrontal Cortex](http://www.jneurosci.org/content/34/13/4741.short)." _Journal of Neuroscience_ 34, no. 13 (2014): 4741-4749.
+
+Marsh, A. A., & Cardinale, E. M. "[When Psychopathy Impairs Moral Judgments: Neural Responses During Judgments About Causing Fear](https://academic.oup.com/scan/article/9/1/3/1672863)." _Social Cognitive and Affective Neuroscience_, 9(1), (2012): 3-11.
+
+Motzkin, Julian C., Joseph P. Newman, Kent A. Kiehl, and Michael Koenigs. "[Reduced Prefrontal Connectivity in Psychopathy](http://www.jneurosci.org/content/31/48/17348.short)." _Journal of Neuroscience_ 31, no. 48 (2011): 17348-17357.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6: Essay Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+No Readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7: Action Aversion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Costa, Albert, Alice Foucart, Sayuri Hayakawa, Melina Aparici, Jose Apesteguia, Joy Heafner, and Boaz Keysar. "[Your Morals Depend on Language](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094842)." _PLOS ONE_ 9, no. 4 (2014): e94842.
+
+Cushman, Fiery, Kurt Gray, Allison Gaffey, and Wendy Berry Mendes. "[Simulating Murder: The Aversion to Harmful Action](http://psycnet.apa.org/record/2011-20235-001)." _Emotion_ 12, no. 1 (2012): 2.
+
+Miller, Ryan M., Ivar A. Hannikainen, and Fiery A. Cushman. "[Bad Actions or Bad Outcomes? Differentiating Affective Contributions to the Moral Condemnation of Harm](http://psycnet.apa.org/record/2014-04654-001)." _Emotion_ 14, no. 3 (2014): 573.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8: Learning, Change, Plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taber-Thomas, Bradley C., Erik W. Asp, Michael Koenigs, Matthew Sutterer, Steven W. Anderson, and Daniel Tranel. "[Arrested Development: Early Prefrontal Lesions Impair the Maturation of Moral Judgement](https://academic.oup.com/brain/article/137/4/1254/366333)." _Brain_ 137, no. 4 (2014): 1254-1261.
+
+Burns, Jeffrey M., and Russell H. Swerdlow. "[Right Orbitofrontal Tumor with Pedophilia Symptom and Constructional Apraxia Sign](https://jamanetwork.com/journals/jamaneurology/fullarticle/783830)." Archives of Neurology 60, no. 3 (2003): 437-440.
+
+Rosas, Alejandro, and Michael Koenigs. "[Beyond “Utilitarianism”: Maximizing the Clinical Impact of Moral Judgment Research](http://www.tandfonline.com/doi/abs/10.1080/17470919.2014.937506)." _Social Neuroscience_ 9, no. 6 (2014): 661-667.
+
+Cushman, Fiery. "[The Neural Basis of Morality: Not Just Where, but When](https://academic.oup.com/brain/article/137/4/974/372961)." _Brain_ 137, no. 4 (2014): 974-975.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9: Parochialism and the Moral Circle
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mathur, Vani A., Tokiko Harada, Trixie Lipke, and Joan Y. Chiao. "[Neural Basis of Extraordinary Empathy and Altruistic Motivation](http://www.sciencedirect.com/science/article/pii/S1053811910003125)." _Neuroimage_ 51, no. 4 (2010): 1468-1475.
+
+De Dreu, Carsten KW, Lindred L. Greer, Gerben A. Van Kleef, Shaul Shalvi, and Michel JJ Handgraaf. "[Oxytocin Promotes Human Ethnocentrism](http://www.pnas.org/content/108/4/1262.short)." _Proceedings of the National Academy of Sciences_ 108, no. 4 (2011): 1262-1266.
+
+Cikara, Mina, Rachel A. Farnsworth, Lasana T. Harris, and Susan T. Fiske. "[On the Wrong Side of the Trolley Track: Neural Correlates of Relative Social Valuation](https://academic.oup.com/scan/article/5/4/404/1624902)." _Social Cognitive and Affective Neuroscience_ 5, no. 4 (2010): 404-413.
+
+Waytz, Adam, Ravi Iyer, Liane Young, and Jesse Graham. "Ideological Differences in the Expanse of Empathy." _Social Psychology of Political Polarization_ (2016): 61.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10: Celebrating Intergroup Violence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cikara, Mina. "[Intergroup Schadenfreude: Motivating Participation in Collective Violence](http://www.sciencedirect.com/science/article/pii/S2352154614000382)." _Current Opinion in Behavioral Sciences_ 3 (2015): 12-17.
+
+Cikara, Mina, Matthew M. Botvinick, and Susan T. Fiske. "[Us Versus Them: Social Identity Shapes Neural Responses to Intergroup Competition and Harm](http://journals.sagepub.com/doi/abs/10.1177/0956797610397667)." _Psychological Science_ 22, no. 3 (2011): 306-313.
+
+Rai, Tage S., Piercarlo Valdesolo, and Jesse Graham. "[Dehumanization Increases Instrumental Violence, but Not Noral Violence](http://www.pnas.org/content/114/32/8511.abstract)." _Proceedings of the National Academy of Sciences_ (2017): 201705238.
+
+Ginges, Jeremy, Scott Atran, Sonya Sachdeva, and Douglas Medin. "[Psychology Out of the Laboratory: The Challenge of Violent Extremism](http://psycnet.apa.org/record/2011-17035-001)." _American Psychologist_ 66, no. 6 (2011): 507.
+
+Fischer, Peter, S. Alexander Haslam, and Laura Smith. "[“If You Wrong Us, Shall We Not Revenge?” Social Identity Salience Moderates Support for Retaliation in Response to Collective Threat](http://psycnet.apa.org/record/2010-10961-004)." _Group Dynamics: Theory, Research, and Practice_ 14, no. 2 (2010): 143.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11: Guilty Minds
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Young, Liane, Joan Albert Camprodon, Marc Hauser, Alvaro Pascual-Leone, and Rebecca Saxe. "[Disruption of the Right Temporoparietal Junction with Transcranial Magnetic Stimulation Reduces the Role of Beliefs in Moral Judgments](http://www.pnas.org/content/107/15/6753.short)." _Proceedings of the National Academy of Sciences_ 107, no. 15 (2010): 6753-6758.
+
+Fehse, Kai, Sarita Silveira, Katrin Elvers, and Janusch Blautzik. "[Compassion, Guilt and Innocence: An fMRI Study of Responses to Victims Who are Responsible for Their Fate](http://www.tandfonline.com/doi/abs/10.1080/17470919.2014.980587)." _Social Neuroscience_ 10, no. 3 (2015): 243-252.
+
+Treadway, Michael T., Joshua W. Buckholtz, Justin W. Martin, Katharine Jan, Christopher L. Asplund, Matthew R. Ginther, Owen D. Jones, and René Marois. "[Corticolimbic Gating of Emotion-Driven Punishment](https://www.nature.com/articles/nn.3781)." _Nature Neuroscience_ 17, no. 9 (2014): 1270-1275.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12: Essay Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+No readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13: Moral Variability
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Graham, Jesse, Jonathan Haidt, and Brian A. Nosek. "[Liberals and Conservatives Rely on Different Sets of Moral Foundations](http://psycnet.apa.org/buy/2009-05192-002)." _Journal of Personality and Social Psychology_ 96, no. 5 (2009): 1029.
+
+Barrett, H. Clark, Alexander Bolyanatz, Alyssa N. Crittenden, Daniel MT Fessler, Simon Fitzpatrick, Michael Gurven, Joseph Henrich et al. "[Small-Scale Societies Exhibit Fundamental Variation in the Role of Intentions in Moral Judgment](http://www.pnas.org/content/113/17/4688.short)." _Proceedings of the National Academy of Sciences_ 113, no. 17 (2016): 4688-4693.
+
+Henrich, Joseph, Richard McElreath, Abigail Barr, Jean Ensminger, Clark Barrett, Alexander Bolyanatz, Juan Camilo Cardenas et al. "[Costly Punishment Across Human Societies](http://science.sciencemag.org/content/312/5781/1767)." _Science_ 312, no. 5781 (2006): 1767-1770.
+
+Chakroff, Alek, James Dungan, Jorie Koster-Hale, Amelia Brown, Rebecca Saxe, and Liane Young. "[When Minds Matter for Moral Judgment: Intent Information is Neurally Encoded for Harmful but Not Impure Acts](https://academic.oup.com/scan/article/11/3/476/2375141)." _Social Cognitive and Affective Neuroscience_ 11, no. 3 (2015): 476-484.
+
+Hofmann, Wilhelm, Daniel C. Wisneski, Mark J. Brandt, and Linda J. Skitka. "[Morality in Everyday Life](http://science.sciencemag.org/content/345/6202/1340)." _Science_ 345, no. 6202 (2014): 1340-1343.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14: The Good Self
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Haslam, S. Alexander, Stephen D. Reicher, and Megan E. Birney. "[Questioning Authority: New Perspectives on Milgram's Oobedience’ Research and its Implications for Intergroup Relations](http://www.sciencedirect.com/science/article/pii/S2352250X16300215)." _Current Opinion in Psychology_ 11 (2016): 6-9.
+
+Mazar, Nina, On Amir, and Dan Ariely. "[The Dishonesty of Honest People: A Theory of Self-Concept Maintenance](http://journals.ama.org/doi/abs/10.1509/jmkr.45.6.633?code=amma-site)." _Journal of Marketing Research_ 45, no. 6 (2008): 633-644.
+
+Gino, Francesca, Michael I. Norton, and Roberto A. Weber. "Motivated Bayesians: Feeling Moral While Acting Egoistically." _The Journal of Economic Perspectives_ 30, no. 3 (2016): 189-212.
+
+D’Argembeau, Arnaud, Haroun Jedidi, Evelyne Balteau, Mohamed Bahri, Christophe Phillips, and Eric Salmon. "[Valuing One’s Self: Medial Prefrontal Involvement in Epistemic and Emotive Investments in Self-Views](https://academic.oup.com/cercor/article/22/3/659/327966)." _Cerebral Cortex_ 22, no. 3 (2011): 659-667.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15: Science and Morality
+{{< tdclose >}}
+{{< tdopen >}}
+No readings
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Readings
 -------------------

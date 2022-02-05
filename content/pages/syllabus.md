@@ -25,14 +25,75 @@ The final exam will test skills developed in the course to think about these har
 Grading
 -------
 
-| Assignment | Grade |
-| --- | --- |
-| Weekly Exercises | 20 points; 2 points/week |
-| Final Essay: Proposal | 5 points |
-| Final Essay: Draft 1 and Reading Plan | 10 points |
-| Final Essay: Draft 2 | 10 points |
-| Final Essay | 25 points |
-| Final Exam | 30 points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignment
+{{< thclose >}}
+{{< thopen >}}
+Grade
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Exercises
+{{< tdclose >}}
+{{< tdopen >}}
+20 points; 2 points/week
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay: Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+5 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay: Draft 1 and Reading Plan
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay: Draft 2
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay
+{{< tdclose >}}
+{{< tdopen >}}
+25 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Ethics and Etiquette
 --------------------

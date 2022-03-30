@@ -12,7 +12,7 @@ Course Meeting Times:
 Prerequisites:
 --------------
 
-[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011/), [_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007/); [_9.10 Cognitive Neuroscience_](/courses/9-10-cognitive-neuroscience-spring-2006/), [_9.20 Animal Behavior_](/courses/9-20-animal-behavior-fall-2013/), or _[9.85 Infant and Early Childhood Cognition](/courses/9-85-infant-and-early-childhood-cognition-fall-2012/)_; Preference to juniors and seniors, and BCS majors.
+[_9.00 Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011), [_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007); [_9.10 Cognitive Neuroscience_](/courses/9-10-cognitive-neuroscience-spring-2006), [_9.20 Animal Behavior_](/courses/9-20-animal-behavior-fall-2013), or _[9.85 Infant and Early Childhood Cognition](/courses/9-85-infant-and-early-childhood-cognition-fall-2012)_; Preference to juniors and seniors, and BCS majors.
 
 The aim of this course is to give students skills and practice making and evaluating arguments from scientific evidence about morality and the brain.
 
